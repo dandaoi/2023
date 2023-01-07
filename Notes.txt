@@ -1,0 +1,8 @@
+	//short assignment statement, only using := when assigning a new variable
+
+	// for i, card := range cards { // in case you do not want to use the value of i, you just have to substitute it by _ (underscore), then you don't need to use the value there
+	// 	fmt.Println(i, card)
+	// }
+
+    
+	// var card string = "Ace of Spades"
